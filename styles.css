@@ -1,7 +1,18 @@
-li {
-    list-style-type: none;
+
+.list-style-none { list-style: none }
+
+
+.border {
+    border-style: solid;
+    border-width: 1px;
 }
 
-body {
-    width : 500px;
-}
+.bold { font-weight:bold; }
+
+.h1 {font-size: 2rem;}
+.h2 {font-size: 1.5rem;}
+.h3 {font-size: 1.25rem;}
+
+.m2 {margin: 1rem;}
+
+.max-width-1 { max-width: 24rem;}
