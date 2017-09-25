@@ -1,1 +1,3 @@
-/* add your CSS here */
+li {
+    list-style-type: none;
+}
