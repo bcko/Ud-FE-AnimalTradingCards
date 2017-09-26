@@ -1,4 +1,4 @@
-# Udacity-Animal-Trading-Cards
+# Udacity Front End Nanodegree Animal Trading Cards
 Udacity Front-End Web Developer Nanodegree Project
 
 ## Project Overview
