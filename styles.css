@@ -1,11 +1,24 @@
-.list-style-none { list-style: none }
-.border {
+.list-style-none {
+    list-style: none;
+  }
+  
+  .border {
     border-style: solid;
     border-width: 1px;
-}
-.bold { font-weight:bold; }
-.h1 {font-size: 2rem;}
-.h2 {font-size: 1.5rem;}
-.h3 {font-size: 1.25rem;}
-.m2 {margin: 1rem;}
-.max-width-1 { max-width: 24rem;}
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .font-size-2rem {
+    font-size: 2rem;
+  }
+  
+  .margin-1rem {
+    margin: 1rem;
+  }
+  
+  .max-width-1 {
+    max-width: 24rem;
+  }
