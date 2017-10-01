@@ -1,5 +1,5 @@
 # Udacity Front End Nanodegree Animal Trading Cards
-Udacity Front-End Web Developer Nanodegree Project
+Udacity Front-End Web Developer Nanodegree Project : Animal Trading Cards
 
 ## Project Overview
 Are you starting to feel like a web developer yet? You should!
@@ -9,7 +9,7 @@ Before you move on, I have one more challenge. I want you to use what you've lea
 This is a common workflow for front-end web developers. Typically, you'll be provided with a design prototype that needs to be translated to an actual, functional website. In most cases, designers only provide you with the design prototype. However, for this project, I've provided you with the design prototype and the HTML. The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a popular animated film. You’ll be creating the card and swapping out the fish with an animal of your choice.
 
 ## Project Instruction
-Review the Animal Trading Cards project rubric.
+Review the Animal Trading Cards [project rubric](https://review.udacity.com/#!/projects/7428479271/rubric).
 
 1. Download and unzip fend-animal-trading-cards-master.zip. Inside, you'll find card.html, styles.css, placeholder.png, and the design-prototype.png.
 2. Next, open card.html and replace the placeholder image and information with your favorite animal's image and information. For the image, you will want to use an image with a width of 300 pixels. If your image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted. Later, we’ll talk about how you can fix this problem using responsive images. Also, don't forget to change the image's alt attribute to the name of your animal. So, alt="name-of-your-animal" should be replaced with the actual name of your animal.
