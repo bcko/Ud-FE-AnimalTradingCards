@@ -24,3 +24,12 @@ Review the Animal Trading Cards [project rubric](https://review.udacity.com/#!/p
   
   #### Supporting Materials
   * [fend-animal-trading-cards-master.zip](https://github.com/udacity/fend-animal-trading-cards/archive/master.zip)
+  
+  ## Project Submission
+Use what you've learned about CSS to convert a design prototype into a functional webpage!
+
+* Once you're satisfied with your result, check your project against the [Project Rubric](https://review.udacity.com/#!/projects/7428479271/rubric) to make sure you've satisfied all requirements.
+* Create a zip file containing `card.html`, `styles.css`, and your new animal image (unless you linked to an image hosted online).
+* Submit your project to be reviewed.
+
+Have fun and be creative 🐠 🐍 🐅 🐼 🐫 ! Writing CSS isn't an exact science, so feel free to experiment. For example, you might want to add rounded corners or a background color to your card. Your submission should resemble the design prototype, but it's okay if it doesn't match exactly, so long as you satisfy all the requirements.
